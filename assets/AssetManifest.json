@@ -1,0 +1,386 @@
+{
+    "assets/fonts/InterBold.ttf": [
+        "assets/fonts/InterBold.ttf"
+    ],
+    "assets/fonts/InterMedium.ttf": [
+        "assets/fonts/InterMedium.ttf"
+    ],
+    "assets/fonts/InterRegular.ttf": [
+        "assets/fonts/InterRegular.ttf"
+    ],
+    "assets/fonts/PTSerifRegular.ttf": [
+        "assets/fonts/PTSerifRegular.ttf"
+    ],
+    "assets/fonts/WorkSansItalicRegular.ttf": [
+        "assets/fonts/WorkSansItalicRegular.ttf"
+    ],
+    "assets/fonts/WorkSansRomanBlack.ttf": [
+        "assets/fonts/WorkSansRomanBlack.ttf"
+    ],
+    "assets/fonts/WorkSansRomanBold.ttf": [
+        "assets/fonts/WorkSansRomanBold.ttf"
+    ],
+    "assets/fonts/WorkSansRomanMedium.ttf": [
+        "assets/fonts/WorkSansRomanMedium.ttf"
+    ],
+    "assets/fonts/WorkSansRomanRegular.ttf": [
+        "assets/fonts/WorkSansRomanRegular.ttf"
+    ],
+    "assets/fonts/WorkSansRomanSemiBold.ttf": [
+        "assets/fonts/WorkSansRomanSemiBold.ttf"
+    ],
+    "assets/icons/bx-download.svg": [
+        "assets/icons/bx-download.svg"
+    ],
+    "assets/icons/bx-location-plus.svg": [
+        "assets/icons/bx-location-plus.svg"
+    ],
+    "assets/icons/bx_save.svg": [
+        "assets/icons/bx_save.svg"
+    ],
+    "assets/icons/bxl-google.svg": [
+        "assets/icons/bxl-google.svg"
+    ],
+    "assets/icons/bxs-envelope.svg": [
+        "assets/icons/bxs-envelope.svg"
+    ],
+    "assets/icons/bxs-phone.svg": [
+        "assets/icons/bxs-phone.svg"
+    ],
+    "assets/icons/img_arrow_left.svg": [
+        "assets/icons/img_arrow_left.svg"
+    ],
+    "assets/icons/img_arrow_left_black_900.svg": [
+        "assets/icons/img_arrow_left_black_900.svg"
+    ],
+    "assets/icons/img_arrow_right.svg": [
+        "assets/icons/img_arrow_right.svg"
+    ],
+    "assets/icons/img_arrowdown.svg": [
+        "assets/icons/img_arrowdown.svg"
+    ],
+    "assets/icons/img_checkmark.svg": [
+        "assets/icons/img_checkmark.svg"
+    ],
+    "assets/icons/img_depth_3_frame_1.svg": [
+        "assets/icons/img_depth_3_frame_1.svg"
+    ],
+    "assets/icons/img_depth_3_frame_2.svg": [
+        "assets/icons/img_depth_3_frame_2.svg"
+    ],
+    "assets/icons/img_depth_4_frame_0.svg": [
+        "assets/icons/img_depth_4_frame_0.svg"
+    ],
+    "assets/icons/img_depth_4_frame_0_24x24.svg": [
+        "assets/icons/img_depth_4_frame_0_24x24.svg"
+    ],
+    "assets/icons/img_depth_4_frame_0_black_900.svg": [
+        "assets/icons/img_depth_4_frame_0_black_900.svg"
+    ],
+    "assets/icons/img_depth_4_frame_0_black_900_20x29.svg": [
+        "assets/icons/img_depth_4_frame_0_black_900_20x29.svg"
+    ],
+    "assets/icons/img_depth_4_frame_0_onprimarycontainer_1x29.svg": [
+        "assets/icons/img_depth_4_frame_0_onprimarycontainer_1x29.svg"
+    ],
+    "assets/icons/img_depth_4_frame_0_onprimarycontainer_24x24.svg": [
+        "assets/icons/img_depth_4_frame_0_onprimarycontainer_24x24.svg"
+    ],
+    "assets/icons/img_depth_4_frame_0_onprimarycontainer_30x48.svg": [
+        "assets/icons/img_depth_4_frame_0_onprimarycontainer_30x48.svg"
+    ],
+    "assets/icons/img_depth_4_frame_0_secondarycontainer.svg": [
+        "assets/icons/img_depth_4_frame_0_secondarycontainer.svg"
+    ],
+    "assets/icons/img_depth_4_frame_0_secondarycontainer_20x29.svg": [
+        "assets/icons/img_depth_4_frame_0_secondarycontainer_20x29.svg"
+    ],
+    "assets/icons/img_forward.svg": [
+        "assets/icons/img_forward.svg"
+    ],
+    "assets/icons/img_frame.svg": [
+        "assets/icons/img_frame.svg"
+    ],
+    "assets/icons/img_frame_1.svg": [
+        "assets/icons/img_frame_1.svg"
+    ],
+    "assets/icons/img_frame_2.svg": [
+        "assets/icons/img_frame_2.svg"
+    ],
+    "assets/icons/img_frame_24x24.svg": [
+        "assets/icons/img_frame_24x24.svg"
+    ],
+    "assets/icons/img_frame_3.svg": [
+        "assets/icons/img_frame_3.svg"
+    ],
+    "assets/icons/img_frame_4.svg": [
+        "assets/icons/img_frame_4.svg"
+    ],
+    "assets/icons/img_frame_5.svg": [
+        "assets/icons/img_frame_5.svg"
+    ],
+    "assets/icons/img_frame_6.svg": [
+        "assets/icons/img_frame_6.svg"
+    ],
+    "assets/icons/img_frame_7.svg": [
+        "assets/icons/img_frame_7.svg"
+    ],
+    "assets/icons/img_frame_black_900.svg": [
+        "assets/icons/img_frame_black_900.svg"
+    ],
+    "assets/icons/img_frame_black_900_18x18.svg": [
+        "assets/icons/img_frame_black_900_18x18.svg"
+    ],
+    "assets/icons/img_frame_black_900_24x24.svg": [
+        "assets/icons/img_frame_black_900_24x24.svg"
+    ],
+    "assets/icons/img_frame_black_900_44x48.svg": [
+        "assets/icons/img_frame_black_900_44x48.svg"
+    ],
+    "assets/icons/img_frame_blue_gray_500.svg": [
+        "assets/icons/img_frame_blue_gray_500.svg"
+    ],
+    "assets/icons/img_nav_buscar.svg": [
+        "assets/icons/img_nav_buscar.svg"
+    ],
+    "assets/icons/img_nav_buscar_black_900.svg": [
+        "assets/icons/img_nav_buscar_black_900.svg"
+    ],
+    "assets/icons/img_nav_chat.svg": [
+        "assets/icons/img_nav_chat.svg"
+    ],
+    "assets/icons/img_nav_contactos.svg": [
+        "assets/icons/img_nav_contactos.svg"
+    ],
+    "assets/icons/img_nav_contrataci_n.svg": [
+        "assets/icons/img_nav_contrataci_n.svg"
+    ],
+    "assets/icons/img_nav_detalles.svg": [
+        "assets/icons/img_nav_detalles.svg"
+    ],
+    "assets/icons/img_nav_home.svg": [
+        "assets/icons/img_nav_home.svg"
+    ],
+    "assets/icons/img_nav_jobs.svg": [
+        "assets/icons/img_nav_jobs.svg"
+    ],
+    "assets/icons/img_nav_mensajes.svg": [
+        "assets/icons/img_nav_mensajes.svg"
+    ],
+    "assets/icons/img_nav_mis_datos.svg": [
+        "assets/icons/img_nav_mis_datos.svg"
+    ],
+    "assets/icons/img_nav_notifications.svg": [
+        "assets/icons/img_nav_notifications.svg"
+    ],
+    "assets/icons/img_nav_post.svg": [
+        "assets/icons/img_nav_post.svg"
+    ],
+    "assets/icons/img_nav_qr.svg": [
+        "assets/icons/img_nav_qr.svg"
+    ],
+    "assets/icons/img_settings.svg": [
+        "assets/icons/img_settings.svg"
+    ],
+    "assets/icons/img_user.svg": [
+        "assets/icons/img_user.svg"
+    ],
+    "assets/icons/img_user_black_900.svg": [
+        "assets/icons/img_user_black_900.svg"
+    ],
+    "assets/icons/img_user_pink_a200.svg": [
+        "assets/icons/img_user_pink_a200.svg"
+    ],
+    "assets/icons/redes_sociales/apple_music.svg": [
+        "assets/icons/redes_sociales/apple_music.svg"
+    ],
+    "assets/icons/redes_sociales/facebook.svg": [
+        "assets/icons/redes_sociales/facebook.svg"
+    ],
+    "assets/icons/redes_sociales/github.svg": [
+        "assets/icons/redes_sociales/github.svg"
+    ],
+    "assets/icons/redes_sociales/gmail.svg": [
+        "assets/icons/redes_sociales/gmail.svg"
+    ],
+    "assets/icons/redes_sociales/instagram.svg": [
+        "assets/icons/redes_sociales/instagram.svg"
+    ],
+    "assets/icons/redes_sociales/linkedin.svg": [
+        "assets/icons/redes_sociales/linkedin.svg"
+    ],
+    "assets/icons/redes_sociales/paypal.svg": [
+        "assets/icons/redes_sociales/paypal.svg"
+    ],
+    "assets/icons/redes_sociales/reddit.svg": [
+        "assets/icons/redes_sociales/reddit.svg"
+    ],
+    "assets/icons/redes_sociales/skype.svg": [
+        "assets/icons/redes_sociales/skype.svg"
+    ],
+    "assets/icons/redes_sociales/spotify.svg": [
+        "assets/icons/redes_sociales/spotify.svg"
+    ],
+    "assets/icons/redes_sociales/telegram.svg": [
+        "assets/icons/redes_sociales/telegram.svg"
+    ],
+    "assets/icons/redes_sociales/tiktok.svg": [
+        "assets/icons/redes_sociales/tiktok.svg"
+    ],
+    "assets/icons/redes_sociales/twitch.svg": [
+        "assets/icons/redes_sociales/twitch.svg"
+    ],
+    "assets/icons/redes_sociales/twitter.svg": [
+        "assets/icons/redes_sociales/twitter.svg"
+    ],
+    "assets/icons/redes_sociales/vsco.svg": [
+        "assets/icons/redes_sociales/vsco.svg"
+    ],
+    "assets/icons/redes_sociales/whatsapp.svg": [
+        "assets/icons/redes_sociales/whatsapp.svg"
+    ],
+    "assets/icons/redes_sociales/x.svg": [
+        "assets/icons/redes_sociales/x.svg"
+    ],
+    "assets/icons/redes_sociales/youtube.svg": [
+        "assets/icons/redes_sociales/youtube.svg"
+    ],
+    "assets/images/fondo_usuario.avif": [
+        "assets/images/fondo_usuario.avif"
+    ],
+    "assets/images/house1.webp": [
+        "assets/images/house1.webp"
+    ],
+    "assets/images/house2.jpg": [
+        "assets/images/house2.jpg"
+    ],
+    "assets/images/house3.jpg": [
+        "assets/images/house3.jpg"
+    ],
+    "assets/images/house4.jpg": [
+        "assets/images/house4.jpg"
+    ],
+    "assets/images/image_not_found.png": [
+        "assets/images/image_not_found.png"
+    ],
+    "assets/images/img_depth_3_frame_0.png": [
+        "assets/images/img_depth_3_frame_0.png"
+    ],
+    "assets/images/img_depth_3_frame_0_1.png": [
+        "assets/images/img_depth_3_frame_0_1.png"
+    ],
+    "assets/images/img_depth_3_frame_0_72x72.png": [
+        "assets/images/img_depth_3_frame_0_72x72.png"
+    ],
+    "assets/images/img_depth_4_frame_0_1.png": [
+        "assets/images/img_depth_4_frame_0_1.png"
+    ],
+    "assets/images/img_depth_4_frame_0_173x173.png": [
+        "assets/images/img_depth_4_frame_0_173x173.png"
+    ],
+    "assets/images/img_depth_4_frame_0_2.png": [
+        "assets/images/img_depth_4_frame_0_2.png"
+    ],
+    "assets/images/img_depth_4_frame_0_3.png": [
+        "assets/images/img_depth_4_frame_0_3.png"
+    ],
+    "assets/images/img_depth_5_frame_0.png": [
+        "assets/images/img_depth_5_frame_0.png"
+    ],
+    "assets/images/img_depth_5_frame_0_128x128.png": [
+        "assets/images/img_depth_5_frame_0_128x128.png"
+    ],
+    "assets/images/img_group_11.png": [
+        "assets/images/img_group_11.png"
+    ],
+    "assets/images/img_group_13.png": [
+        "assets/images/img_group_13.png"
+    ],
+    "assets/images/img_grupo_2.png": [
+        "assets/images/img_grupo_2.png"
+    ],
+    "assets/images/img_grupo_4.png": [
+        "assets/images/img_grupo_4.png"
+    ],
+    "assets/images/img_image_1.png": [
+        "assets/images/img_image_1.png"
+    ],
+    "assets/images/img_image_2.png": [
+        "assets/images/img_image_2.png"
+    ],
+    "assets/images/img_image_4.png": [
+        "assets/images/img_image_4.png"
+    ],
+    "assets/images/img_image_5.png": [
+        "assets/images/img_image_5.png"
+    ],
+    "assets/images/img_ring_phone.png": [
+        "assets/images/img_ring_phone.png"
+    ],
+    "assets/images/marker.png": [
+        "assets/images/marker.png"
+    ],
+    "assets/images/redes_sociales/apple_music.png": [
+        "assets/images/redes_sociales/apple_music.png"
+    ],
+    "assets/images/redes_sociales/facebook.png": [
+        "assets/images/redes_sociales/facebook.png"
+    ],
+    "assets/images/redes_sociales/github.png": [
+        "assets/images/redes_sociales/github.png"
+    ],
+    "assets/images/redes_sociales/gmail.png": [
+        "assets/images/redes_sociales/gmail.png"
+    ],
+    "assets/images/redes_sociales/instagram.png": [
+        "assets/images/redes_sociales/instagram.png"
+    ],
+    "assets/images/redes_sociales/linkedin.png": [
+        "assets/images/redes_sociales/linkedin.png"
+    ],
+    "assets/images/redes_sociales/paypal.png": [
+        "assets/images/redes_sociales/paypal.png"
+    ],
+    "assets/images/redes_sociales/reddit.png": [
+        "assets/images/redes_sociales/reddit.png"
+    ],
+    "assets/images/redes_sociales/skype.png": [
+        "assets/images/redes_sociales/skype.png"
+    ],
+    "assets/images/redes_sociales/spotify.png": [
+        "assets/images/redes_sociales/spotify.png"
+    ],
+    "assets/images/redes_sociales/telegram.png": [
+        "assets/images/redes_sociales/telegram.png"
+    ],
+    "assets/images/redes_sociales/tiktok.png": [
+        "assets/images/redes_sociales/tiktok.png"
+    ],
+    "assets/images/redes_sociales/twitch.png": [
+        "assets/images/redes_sociales/twitch.png"
+    ],
+    "assets/images/redes_sociales/vsco.png": [
+        "assets/images/redes_sociales/vsco.png"
+    ],
+    "assets/images/redes_sociales/whatsapp.png": [
+        "assets/images/redes_sociales/whatsapp.png"
+    ],
+    "assets/images/redes_sociales/x.png": [
+        "assets/images/redes_sociales/x.png"
+    ],
+    "assets/images/redes_sociales/youtube.png": [
+        "assets/images/redes_sociales/youtube.png"
+    ],
+    "assets/images/rive/loading_animation.riv": [
+        "assets/images/rive/loading_animation.riv"
+    ],
+    "packages/cupertino_icons/assets/CupertinoIcons.ttf": [
+        "packages/cupertino_icons/assets/CupertinoIcons.ttf"
+    ],
+    "packages/fluttertoast/assets/toastify.css": [
+        "packages/fluttertoast/assets/toastify.css"
+    ],
+    "packages/fluttertoast/assets/toastify.js": [
+        "packages/fluttertoast/assets/toastify.js"
+    ]
+}

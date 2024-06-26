@@ -1,0 +1,73 @@
+[
+    {
+        "family": "MaterialIcons",
+        "fonts": [
+            {
+                "asset": "fonts/MaterialIcons-Regular.otf"
+            }
+        ]
+    },
+    {
+        "family": "Work Sans",
+        "fonts": [
+            {
+                "weight": 700,
+                "asset": "assets/fonts/WorkSansRomanBold.ttf"
+            },
+            {
+                "weight": 400,
+                "asset": "assets/fonts/WorkSansRomanRegular.ttf"
+            },
+            {
+                "weight": 600,
+                "asset": "assets/fonts/WorkSansRomanSemiBold.ttf"
+            },
+            {
+                "weight": 500,
+                "asset": "assets/fonts/WorkSansRomanMedium.ttf"
+            },
+            {
+                "weight": 400,
+                "asset": "assets/fonts/WorkSansItalicRegular.ttf"
+            },
+            {
+                "weight": 900,
+                "asset": "assets/fonts/WorkSansRomanBlack.ttf"
+            }
+        ]
+    },
+    {
+        "family": "Inter",
+        "fonts": [
+            {
+                "weight": 400,
+                "asset": "assets/fonts/InterRegular.ttf"
+            },
+            {
+                "weight": 700,
+                "asset": "assets/fonts/InterBold.ttf"
+            },
+            {
+                "weight": 500,
+                "asset": "assets/fonts/InterMedium.ttf"
+            }
+        ]
+    },
+    {
+        "family": "PT Serif",
+        "fonts": [
+            {
+                "weight": 400,
+                "asset": "assets/fonts/PTSerifRegular.ttf"
+            }
+        ]
+    },
+    {
+        "family": "packages/cupertino_icons/CupertinoIcons",
+        "fonts": [
+            {
+                "asset": "packages/cupertino_icons/assets/CupertinoIcons.ttf"
+            }
+        ]
+    }
+]
